@@ -1,3 +1,6 @@
+vusb power switch modified to use atmega8 
+
+
 This is the README file for the PowerSwitch USB device.
 
 PowerSwitch is an example application using Objective Development's
